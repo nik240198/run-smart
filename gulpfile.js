@@ -4,10 +4,6 @@ const sass        = require('gulp-sass')(require('sass'));
 const cleanCSS = require('gulp-clean-css');
 const autoprefixer = require('gulp-autoprefixer');
 const rename = require("gulp-rename");
-const autoprefixer = require('gulp-autoprefixer');
-const rename = require("gulp-rename");
-const cleanCSS = require('gulp-clean-css');
-
 gulp.task('server', function() {
 
     browserSync({

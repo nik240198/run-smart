@@ -1,5 +1,5 @@
 {
-  "name": "project2",
+  "name": "run-smart",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nik240198/project.git"
+    "url": "git+https://github.com/nik240198/run-smart.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/nik240198/project/issues"
+    "url": "https://github.com/nik240198/run-smart/issues"
   },
-  "homepage": "https://github.com/nik240198/project#readme",
+  "homepage": "https://github.com/nik240198/run-smart#readme",
   "devDependencies": {
     "browser-sync": "^2.27.11",
     "gulp": "^4.0.2",
