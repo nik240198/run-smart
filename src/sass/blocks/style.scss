@@ -1,5 +1,10 @@
 @import "../base/variables";
 
 * {
-  font-family: "museo sans cyrl", sans-serif;
+font-family: "museo sans cyrl", sans-serif;
+}
+
+.container{
+  max-width: 950px;
+  margin: 0 auto;
 }
