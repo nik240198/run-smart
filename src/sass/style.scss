@@ -1,0 +1,18 @@
+@import "base/variables";
+@import "blocks/promo";
+@import "blocks/header";
+@import "blocks/buttons";
+
+
+
+* {
+font-family: "museo sans cyrl", sans-serif;
+}
+
+.container{
+  max-width: 950px;
+  margin: 0 auto;
+}
+
+
+
