@@ -1,4 +1,9 @@
+@import "libs/bootstrap-reboot.min";
+@import "libs/stylesheet";
+@import "libs/slick";
+
 @import "base/variables";
+@import "base/animation";
 @import "blocks/promo";
 @import "blocks/header";
 @import "blocks/buttons";
@@ -9,6 +14,11 @@
 @import "blocks/carousel";
 @import "blocks/catalog";
 @import "blocks/feed";
+@import "blocks/media";
+@import "blocks/footer";
+@import "blocks/modal";
+@import "blocks/pageup";
+
 
 * {
 font-family: "museo sans cyrl", sans-serif;
